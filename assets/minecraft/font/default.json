@@ -1,0 +1,574 @@
+{
+    "providers": [
+       {
+         "type": "bitmap",
+         "file": "icons:menu/menu_icons.png",
+         "ascent": 13,
+         "height": 20,
+         "chars": [
+            "󰀀󰀁󰀂󰀃󰀅󰀆󰀄󰀇󰀈󰀉󰀊󰀋",
+            "󰀌󰀍󰀎󰀏󰀐󰀑󰀒󰀓󰀔󰀕󰀖󰀗",
+            "󰀘󰀙󰀚󰀛󰀜󰀝󰀞󰀟󰀠󰀡󰀢󰀣",
+            "󰀤󰀥󰀦󰀧󰀨󰀩󰀪󰀫󰀬󰀭󰀮󰀯",
+            "󰀰󰀱󰀲󰀳󰀴󰀵󰀶󰀷󰀸󰀹󰀺󰀻",
+            "󰀼󰀽󰀾󰀿󰁀󰁁󰁂󰁃󰁄󰁅󰁆󰁇",
+            "󰁈󰁉󰁊󰁋",
+            "",		
+            "",
+            "",
+            "",			
+            "󰂊󰂋󰂌󰂍󰂎󰂏"
+            ]
+        },
+		{
+         "type": "bitmap",
+         "file": "icons:menu/game_menu.png",
+         "ascent": 40,
+         "height": 60,
+         "chars": [
+            "󰂐"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:statistic/stats1.png",
+         "ascent": 8,
+         "height": 9,
+         "chars": [
+            "󰂑",
+            "󰂒",
+            "󰂓",
+            "󰂔",
+            "󰂕",
+            "󰂖",
+            "󰂗",
+            "󰂘",
+            "󰂙",
+            "󰂚",
+            "󰂛",
+            "󰂜",
+            "󰂝",
+            "󰂞",
+            "󰂟",
+            "󰂠",
+            "󰂡",
+            "󰂢",
+            "󰂣",
+            "󰂤",
+            "󰂥",
+            "󰂦",
+            "󰂧",
+            "󰂨",
+            "󰂩",
+            "󰂪",
+            "󰂫"			
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:statistic/stats2.png",
+         "ascent": 8,
+         "height": 9,
+         "chars": [
+            "󰂬",
+            "󰂭",
+            "󰂮",
+            "󰂯",
+            "󰂰",
+            "󰂱",
+            "󰂲",
+            "󰂳",
+            "󰂴",
+            "󰂵",
+            "󰂶",
+            "󰂷",
+            "󰂸",
+            "󰂹",
+            "󰂺",
+            "󰂻",
+            "󰂼",
+            "󰂽",
+            "󰂾",
+            "󰂿",
+            "󰃀",
+            "󰃁",
+            "󰃂",
+            "󰃃",
+            "󰃄",
+            "󰃅",
+            "󰃆"			
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:statistic/stats3.png",
+         "ascent": 8,
+         "height": 9,
+         "chars": [
+            "󰃇",
+            "󰃈",
+            "󰃉",
+            "󰃊",
+            "󰃋",
+            "󰃌",
+            "󰃍",
+            "󰃎",
+            "󰃏",
+            "󰃐",
+            "󰃑",
+            "󰃒",
+            "󰃓",
+            "󰃔",
+            "󰃕",
+            "󰃖",
+            "󰃗",
+            "󰃘",
+            "󰃙",
+            "󰃚",
+            "󰃛"			
+            ]
+        },		
+        {
+         "type": "bitmap",
+         "file": "icons:item/attributes.png",
+         "ascent": 8,
+         "height": 9,
+         "chars": [
+            "󰃽󰃾󰃿󰄀󰄁󰄂󰄃󰄄󰄅󰄆",
+            "󰄇󰄈󰄉󰄊󰄋󰄌󰄍󰄎󰄏󰄏"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:item/enchantments.png",
+         "ascent": 8,
+         "height": 9,
+         "chars": [
+            "󰄥󰄦󰄧󰄨󰄩󰄪󰄫󰄬",
+            "󰄭󰄮󰄯󰄰󰄱󰄲󰄳󰄴"
+            ]
+        },		
+        {
+         "type": "bitmap",
+         "file": "icons:item/pattern.png",
+         "ascent": 7,
+         "height": 8,
+         "chars": [
+            "󰅅󰅆󰅇󰅈󰅉󰅊"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:item/food.png",
+         "ascent": 7,
+         "height": 9,
+         "chars": [
+            "󰅑󰅒󰅓󰅔",
+            "󰅕󰅖󰅗󰅘",
+            "󰅙󰅚󰅛󰅜",
+            "󰅝󰅞󰅟󰅠",
+			"󰅡󰅢󰅣󰅤",
+			"󰅥󰅦󰅧󰅨",
+			"󰅩󰅪󰅫󰅬",
+			"󰅭󰅮󰅯󰅰",
+            "󰅱󰅲󰅳󰅴",
+            "󰅵󰅶󰅷󰅸",
+			"󰅹󰅺󰅻󰅼",
+			"󰅽󰅾󰅿󰆀",
+			"󰆁󰆂󰆃󰆄",
+			"󰆅󰆆󰆇󰆈"	
+            ]
+        },
+		{
+         "type": "bitmap",
+         "file": "icons:item/effects.png",
+         "ascent": 8,
+         "height": 10,
+         "chars": [
+			"󰆉󰆊󰆋󰆌󰆍󰆎󰆏󰆐",	
+            "󰆑󰆒󰆓󰆔󰆕󰆖󰆗󰆘",
+			"󰆙󰆚󰆛󰆜󰆝󰆞󰆟󰆠",
+			"󰆡󰆢󰆣󰆤󰆥󰆦󰆧󰆨"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:item/discs.png",
+         "ascent": 8,
+         "height": 10,
+         "chars": [
+            "󰆱󰆲󰆳󰆴󰆵󰆶󰆷",
+            "󰆸󰆹󰆺󰆻󰆼󰆽󰆾"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:item/item_groups.png",
+         "ascent": 8,
+         "height": 10,
+         "chars": [
+            "󰇆󰇇󰇈󰇉󰇊󰇋",
+			"󰇌󰇍󰇎󰇏󰇐󰇑"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:splash/caelesti.png",
+         "ascent": 12,
+         "height": 21,
+         "chars": [
+            "󰇘",
+			"󰇙"			
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:splash/splash.png",
+         "ascent": 13,
+         "height": 16,
+         "chars": [
+            "󰇚"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:splash/sus.png",
+         "ascent": 13,
+         "height": 16,
+         "chars": [
+            "󰇛"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:firework/dye.png",
+         "ascent": 8,
+         "height": 9,
+         "chars": [
+            "󰇬󰇭󰇮󰇯",
+            "󰇰󰇱󰇲󰇳",
+            "󰇴󰇵󰇶󰇷",
+            "󰇸󰇹󰇺󰇻"			
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:firework/shape.png",
+         "ascent": 8,
+         "height": 10,
+         "chars": [
+            "󰇼󰇽󰇾󰇿󰈀",
+            "󰈁󰈂󰈃󰈄󰈅"		
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:commands/gamemodes.png",
+         "ascent": 8,
+         "height": 9,
+         "chars": [
+            "󰈋󰈌󰈍󰈎󰈏"	
+            ]
+        },		
+        {
+         "type": "bitmap",
+         "file": "icons:item/banner.png",
+         "ascent": 8,
+         "height": 10,
+         "chars": [
+            "",
+            ""		
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:flags/lang_1.png",
+         "ascent": 81,
+         "height": 162,
+         "chars": [
+            "􀐏"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:flags/lang_2.png",
+         "ascent": 81,
+         "height": 162,
+         "chars": [
+            "􀐎"
+            ]
+        },	
+        {
+         "type": "bitmap",
+         "file": "icons:flags/lang_3.png",
+         "ascent": 81,
+         "height": 162,
+         "chars": [
+            "􀐍"
+            ]
+        },	
+        {
+         "type": "bitmap",
+         "file": "icons:flags/lang_4.png",
+         "ascent": 81,
+         "height": 162,
+         "chars": [
+            "􀐌"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:flags/lang_5.png",
+         "ascent": 81,
+         "height": 162,
+         "chars": [
+            "􀐋"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:flags/lang_6.png",
+         "ascent": 81,
+         "height": 162,
+         "chars": [
+            "􀐊"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:flags/lang_7.png",
+         "ascent": 81,
+         "height": 162,
+         "chars": [
+            "􀐉"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:flags/lang_8.png",
+         "ascent": 81,
+         "height": 162,
+         "chars": [
+            "􀐈"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:flags/lang_9.png",
+         "ascent": 81,
+         "height": 162,
+         "chars": [
+            "􀐇"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:flags/lang_10.png",
+         "ascent": 81,
+         "height": 162,
+         "chars": [
+            "􀐆"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:flags/lang_11.png",
+         "ascent": 81,
+         "height": 162,
+         "chars": [
+            "􀐅"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:flags/lang_12.png",
+         "ascent": 81,
+         "height": 162,
+         "chars": [
+            "􀐄"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:flags/lang_13.png",
+         "ascent": 81,
+         "height": 162,
+         "chars": [
+            "􀐃"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:flags/lang_14.png",
+         "ascent": 81,
+         "height": 162,
+         "chars": [
+            "􀐂"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:flags/lang_15.png",
+         "ascent": 81,
+         "height": 162,
+         "chars": [
+            "􀐁"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:flags/lang_16.png",
+         "ascent": 81,
+         "height": 162,
+         "chars": [
+            "􀐀"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:flags/lang_17.png",
+         "ascent": 81,
+         "height": 162,
+         "chars": [
+            "􀏿"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:flags/lang_18.png",
+         "ascent": 81,
+         "height": 162,
+         "chars": [
+            "􀏾"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:flags/lang_19.png",
+         "ascent": 81,
+         "height": 162,
+         "chars": [
+            "􀏽"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:flags/lang_20.png",
+         "ascent": 81,
+         "height": 162,
+         "chars": [
+            "􀏼"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:flags/lang_21.png",
+         "ascent": 81,
+         "height": 162,
+         "chars": [
+            "􀏻"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:flags/lang_22.png",
+         "ascent": 81,
+         "height": 162,
+         "chars": [
+            "􀏺"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:flags/lang_23.png",
+         "ascent": 81,
+         "height": 162,
+         "chars": [
+            "􀏹"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:flags/lang_24.png",
+         "ascent": 81,
+         "height": 162,
+         "chars": [
+            "􀏸"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:flags/lang_25.png",
+         "ascent": 81,
+         "height": 162,
+         "chars": [
+            "􀏷"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:flags/lang_26.png",
+         "ascent": 81,
+         "height": 162,
+         "chars": [
+            "􀏶"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:flags/lang_27.png",
+         "ascent": 81,
+         "height": 162,
+         "chars": [
+            "􀏵"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:flags/lang_28.png",
+         "ascent": 81,
+         "height": 162,
+         "chars": [
+            "􀏴"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:flags/lang_29.png",
+         "ascent": 81,
+         "height": 162,
+         "chars": [
+            "􀏳"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:flags/lang_30.png",
+         "ascent": 81,
+         "height": 162,
+         "chars": [
+            "􀏲"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:flags/lang_31.png",
+         "ascent": 81,
+         "height": 162,
+         "chars": [
+            "􀏱"
+            ]
+        },		
+        {
+         "type": "bitmap",
+         "file": "icons:spacer.png",
+         "ascent": 1,
+         "height": 1,
+         "chars": [
+            "\u4E7B",
+			"\u4E7C",
+			"\u4E80"
+            ]
+        }			
+    ]
+}
