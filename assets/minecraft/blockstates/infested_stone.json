@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "": [
-            { "model": "block/infested_stone" },
-            { "model": "block/infested_stone", "y": 180 }
-        ]
-    }
-}
