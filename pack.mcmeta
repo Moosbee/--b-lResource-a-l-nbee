@@ -1,6 +1,6 @@
 {
 "pack": {
-"pack_format": 8,
+"pack_format": 15,
 "description": ["",{"text":"O","obfuscated":true},{"text":"Blau","bold":true,"color":"dark_blue"},{"text":"beere","bold":true,"color":"#FF1F1A"},{"text":"O","obfuscated":true},{"text":" by "},{"text":"Richard_Max","strikethrough":true,"color":"#EFFD42"},{"text":" - "},{"text":"Moosbee","bold":true,"underlined":true,"color":"#78FF2F"}],
 "links":"Giornalista"
 }
