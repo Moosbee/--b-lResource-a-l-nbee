@@ -39,6 +39,9 @@ Files: [command_block_minecart](assets/minecraft/textures/item/command_block_min
 - [Animac](https://www.planetminecraft.com/texture-pack/animac/) Files: [Bamboo](assets/minecraft/textures/item/bamboo.png)
 [firework_rocket](assets/minecraft/textures/item/firework_rocket.png)
 [rotten_flesh](/assets/minecraft/textures/item/rotten_flesh.png)
+- [Animated buckets!](https://modrinth.com/resourcepack/animated-buckets/version/1) [File](/assets/minecraft/textures/item/tadpole_bucket.png)
+- [Soul Cook](https://www.planetminecraft.com/texture-pack/soul-cook/) ([File](assets/minecraft/textures/block/blast_furnace_front_on.png))
+- [Icons](https://modrinth.com/resourcepack/icons)
 
 ## Self Created
 
@@ -46,7 +49,6 @@ Files: [command_block_minecart](assets/minecraft/textures/item/command_block_min
 - [Sweet Berry Stage 2](assets/minecraft/textures/block/sweet_berry_bush_stage2.png)
 - [Sweet Berry Stage 3](assets/minecraft/textures/block/sweet_berry_bush_stage3.png)
 - [Barrier](assets/minecraft/textures/item/barrier.png)
-- [Soul Cook](https://www.planetminecraft.com/texture-pack/soul-cook/) ([File](assets/minecraft/textures/block/blast_furnace_front_on.png))
 - [Pumpkin-blur](assets/minecraft/textures/misc/pumpkinblur.png)
 - [Vignette](assets/minecraft/textures/misc/vignette.png)
 - [Suspicious Stew](assets/minecraft/textures/item/suspicious_stew.png)
