@@ -29,7 +29,12 @@ Packs:
 
 - Cube Cake (unknown source)
 - [Directional End Portals](https://www.planetminecraft.com/texture-pack/directional-end-portals/)
-- [Animated Vanilla v1.2](https://www.planetminecraft.com/texture-pack/animated-vanilla-work-in-progress/) Files:[command_block_minecart](assets/minecraft/textures/item/command_block_minecart.png)
+- [Animated Vanilla v1.2](https://www.planetminecraft.com/texture-pack/animated-vanilla-work-in-progress/)
+Files: [command_block_minecart](assets/minecraft/textures/item/command_block_minecart.png)
+[comparator](assets/minecraft/textures/item/comparator.png)
+[dragon_breath](assets/minecraft/textures/item/dragon_breath.png)
+[fire_charge](assets/minecraft/textures/item/fire_charge.png)
+[seagrass](assets/minecraft/textures/item/seagrass.png)
 
 ## Self Created
 
@@ -41,3 +46,4 @@ Packs:
 - [Pumpkin-blur](assets/minecraft/textures/misc/pumpkinblur.png)
 - [Vignette](assets/minecraft/textures/misc/vignette.png)
 - [Suspicious Stew](assets/minecraft/textures/item/suspicious_stew.png)
+- Extra Bookshelfs
