@@ -35,6 +35,10 @@ Files: [command_block_minecart](assets/minecraft/textures/item/command_block_min
 [dragon_breath](assets/minecraft/textures/item/dragon_breath.png)
 [fire_charge](assets/minecraft/textures/item/fire_charge.png)
 [seagrass](assets/minecraft/textures/item/seagrass.png)
+- [Animations+](https://www.planetminecraft.com/texture-pack/animations-4551532/) Files: [Torch](assets/minecraft/textures/block/torch.png)
+- [Animac](https://www.planetminecraft.com/texture-pack/animac/) Files: [Bamboo](assets/minecraft/textures/item/bamboo.png)
+[firework_rocket](assets/minecraft/textures/item/firework_rocket.png)
+[rotten_flesh](/assets/minecraft/textures/item/rotten_flesh.png)
 
 ## Self Created
 
