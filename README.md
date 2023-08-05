@@ -25,6 +25,9 @@ Packs:
 - AnimatedCampfireItem
 - HDShieldBanners
 - CactusBottomFix
+- DirectionalDispensersDroppers
+- DirectionalHoppers
+- BetterObservers
 
 ## Other Links (mostly only partial)
 
