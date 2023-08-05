@@ -47,6 +47,7 @@ Files: [command_block_minecart](assets/minecraft/textures/item/command_block_min
 - [Soul Cook](https://www.planetminecraft.com/texture-pack/soul-cook/) ([File](assets/minecraft/textures/block/blast_furnace_front_on.png))
 - [Distinctive Infested Block](https://modrinth.com/resourcepack/dib/version/4nFwvYmE)
 - [Blockstates +](https://modrinth.com/resourcepack/blockstates/version/1.4)
+- [Enchant Icons](https://modrinth.com/resourcepack/enchant-icons-countxd/version/PXnG3qIS)
 
 ## Self Created
 
