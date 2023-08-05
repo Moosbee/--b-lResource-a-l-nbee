@@ -43,6 +43,7 @@ Files: [command_block_minecart](assets/minecraft/textures/item/command_block_min
 - [Animated buckets!](https://modrinth.com/resourcepack/animated-buckets/version/1) [File](/assets/minecraft/textures/item/tadpole_bucket.png)
 - [Soul Cook](https://www.planetminecraft.com/texture-pack/soul-cook/) ([File](assets/minecraft/textures/block/blast_furnace_front_on.png))
 - [Icons](https://modrinth.com/resourcepack/icons)
+- [Distinctive Infested Block](https://modrinth.com/resourcepack/dib/version/4nFwvYmE)
 
 ## Self Created
 

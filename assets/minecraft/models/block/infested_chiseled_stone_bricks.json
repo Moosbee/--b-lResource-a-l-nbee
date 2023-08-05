@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "minecraft:item/infested_cobblestone"
+    "all": "minecraft:block/infested_chiseled_stone_bricks"
   }
 }
