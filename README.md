@@ -7,6 +7,7 @@ Version: 1.20
 
 Packs:
 
+- 3DRails
 - BlazeFix
 - PingColorIndicator
 - InvisibleTotem
