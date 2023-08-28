@@ -60,7 +60,7 @@ Files: [command_block_minecart](assets/minecraft/textures/item/command_block_min
 - [Suspicious Stew](assets/minecraft/textures/item/suspicious_stew.png)
 - Extra Bookshelfs
 
-## Some Coll links
+## Some Cool links
 
 - [Icons](https://modrinth.com/resourcepack/icons)
 - [HideHoverEffect](https://modrinth.com/resourcepack/hidehovereffect/gallery)
