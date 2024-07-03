@@ -107,6 +107,15 @@
 			"chars": [
 				"\ueef3"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:misc/mace.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": [
+				"\ueef4"
+			]
 		}
 	]
 }
